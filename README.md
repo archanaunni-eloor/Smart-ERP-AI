@@ -25,7 +25,7 @@ An advanced ERP solution designed for small to medium enterprises, featuring a *
 
 | Dashboard Overview | AI Analysis Report |
 | :--- | :--- |
-| ![Dashboard](https://via.placeholder.com/400x250?text=Dashboard+Screenshot) | ![AI Report](https://via.placeholder.com/400x250?text=AI+Report+Screenshot) |
+| ![Dashboard] https://github.com/archanaunni-eloor/Smart-ERP-AI/blob/main/images/ERP%20Salary%20Dashboard.png | ![AI Report](https://via.placeholder.com/400x250?text=AI+Report+Screenshot) |
 *(Tip: Replace these placeholders with your actual screenshots from the project)*
 
 ---
