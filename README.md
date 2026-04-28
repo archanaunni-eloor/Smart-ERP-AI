@@ -68,7 +68,7 @@ SECRET_KEY=your_django_secret_key
 python manage.py migrate
 python manage.py runserver
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot] images/ERP Salary Dashboard.png
 
 Why This Project?
 This project was built to bridge the gap between traditional ERP systems and modern AI capabilities. By leveraging Autonomous AI Agents, businesses can move from manual data entry to proactive decision-making.
